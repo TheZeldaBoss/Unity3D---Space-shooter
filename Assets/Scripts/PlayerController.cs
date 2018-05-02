@@ -9,11 +9,15 @@ public class Boundary
 
 public class PlayerController : MonoBehaviour {
     public GameObject shot;
-    public GameObject shotSpawn; // 
+    public GameObject shotSpawn;
     public float fireRate;
     private float nextFire;
+
+    public GameObject player;
 	void Update () {
-        if (Input.GetButton("Fire1") && Time.time > nextFire)
+        
+
+            if (Input.GetButton("Fire1") && Time.time > nextFire)
         {
 
             nextFire = Time.time + fireRate;

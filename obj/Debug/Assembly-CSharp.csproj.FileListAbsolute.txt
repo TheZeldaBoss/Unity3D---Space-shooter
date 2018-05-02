@@ -40,3 +40,45 @@ C:\Users\Benoit.TACHET\Documents\New Unity Project\obj\Debug\Assembly-CSharp.csp
 C:\Users\Benoit.TACHET\Documents\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\Users\Benoit.TACHET\Documents\New Unity Project\obj\Debug\Assembly-CSharp.dll
 C:\Users\Benoit.TACHET\Documents\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\obj\Debug\Assembly-CSharp.dll
+C:\Users\Benoit.TACHET\Documents\GitHub\Unity3D---Space-shooter\obj\Debug\Assembly-CSharp.pdb

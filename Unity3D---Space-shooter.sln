@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity3D---Space-shooter", "Assembly-CSharp.csproj", "{6DDE2506-F87E-73BE-603C-F825F9B47C36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity3D---Space-shooter", "Assembly-CSharp-Editor.csproj", "{A63FA5A4-BAFB-C0E3-BEC4-5D8F00F866D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DDE2506-F87E-73BE-603C-F825F9B47C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDE2506-F87E-73BE-603C-F825F9B47C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDE2506-F87E-73BE-603C-F825F9B47C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDE2506-F87E-73BE-603C-F825F9B47C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63FA5A4-BAFB-C0E3-BEC4-5D8F00F866D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63FA5A4-BAFB-C0E3-BEC4-5D8F00F866D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63FA5A4-BAFB-C0E3-BEC4-5D8F00F866D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63FA5A4-BAFB-C0E3-BEC4-5D8F00F866D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
