@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class GameController : MonoBehaviour {
 
     public GameObject hazard;
+    public GameObject ennemy;
     public Vector3 spawnValues;
     public int hazardCount;
     public float spawnWait;
@@ -15,6 +16,10 @@ public class GameController : MonoBehaviour {
     //game over
     public int nbLives;
     public GameObject player;
+
+    //Objectives
+    public int nbAsteroidsToDestroy;
+    public GameObject missionText;
     void Update()
     {
         GameObject tmpPlayer;
@@ -42,6 +47,7 @@ public class GameController : MonoBehaviour {
     }
     IEnumerator SpawnWaves()
     {
+
         yield return new WaitForSeconds(startWait);
         while(true)
         { 
@@ -49,7 +55,10 @@ public class GameController : MonoBehaviour {
             {
                 Vector3 spawnPosition = new Vector3(Random.Range(-(spawnValues.x - 1), spawnValues.x - 1), 0, 16);
                 Quaternion spawnRotation = Quaternion.identity;
-                Instantiate(hazard, spawnPosition, spawnRotation);
+                if (Random.Range(0, 2) == 1)
+                    Instantiate(hazard, spawnPosition, spawnRotation);
+                else
+                    Instantiate(ennemy, spawnPosition, spawnRotation);
                 yield return new WaitForSeconds(spawnWait);
             }
             yield return new WaitForSeconds(waveWait);
